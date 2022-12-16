@@ -33,7 +33,7 @@ EvosMovesPointerTable:
 	dw BlastoiseEvosMoves
 	dw PinsirEvosMoves
 	dw TangelaEvosMoves
-	dw MissingNo1FEvosMoves
+	dw LiquifrozeEvosMoves
 	dw MissingNo20EvosMoves
 	dw GrowlitheEvosMoves
 	dw OnixEvosMoves
